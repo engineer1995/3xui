@@ -1,0 +1,11 @@
+.env
+db/
+cert/
+letsencrypt/
+backup/
+*.key
+*.pem
+*.crt
+*.db
+*.bak
+x-ui.db
